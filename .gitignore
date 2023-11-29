@@ -1,0 +1,4 @@
+conv_demo/mnist-data
+*.zip
+__pycache__
+cn_en_demo/wnt_cn_en
